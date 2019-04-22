@@ -1,7 +1,7 @@
 ## QuickStart
 ClojureScript QuickStart based on https://clojurescript.org/guides/quick-start
 
-## Prequisites
+## Prerequisite
 
 - Based on your operating system, please install Clojure according to instructions provided on https://clojure.org/guides/getting_started#_clojure_installer_and_cli_tools
 
